@@ -10,7 +10,7 @@ Desenvolvedor com experiência um pouco mais consolidada no desenvolvimento de s
 - Domina os diagramas de classe e sequência da UML;
 - Conhecimento mais aprofundado sobre o protocolo HTTP
 	- Utilização correta dos métodos (ao menos OPTIONS, GET, POST, PUT e DELETE);
-	- Utilização correta dos status code (envio e recebimento);
+	- Utilização correta dos status codes (envio e recebimento);
 	- Negociação de conteúdo através dos headers de requisição (language,
 content­type, encoding, etc). 
 - Utilização avançada de bancos de dados relacionais
@@ -61,5 +61,5 @@ computacionalmente, trazendo soluções viáveis;
 desenvolvimento;
 - Pesquisador nas horas vagas, trazendo novidades que podem ser realmente aplicadas nos projetos;
 - Senso crítico;
-- Engamento com a equipe, para crescimento sustentável de todos.
+- Engajamento com a equipe, para crescimento sustentável de todos.
 

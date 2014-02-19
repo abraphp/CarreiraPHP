@@ -10,7 +10,7 @@ Desenvolvedor com habilidades extremamente evoluídas em todas as etapas do des
 - Conhecimento sobre o funcionamento interno de um framework e qual a motivação de sua utilização sabendo identificar seus componentes e suas funcionalidades;
 - Conhecimento e utilização de ferramentas de qualidade de código como PHPUnit, Behat, Codeception, PHP_CodeSniffer, PHPCPD, PHPMD, PHPLoc, PHPDoc e XDebug;
 - Conhecimentos em Continuous Integration (CI) e instalar/configurar/utilizar ferramentas para automatizar deploy;
-- Conhecimento sobre a configuração manual de um servidor. Instalação e configuração do sistema operacional, do servidor web, do PHP e de seus módulos e do servidor de banco de dados, configurações de rede, liberação no firewall e deploy da aplicação;
+- Conhecimento sobre a configuração manual de um servidor. Instalação e configuração do sistema operacional, do servidor web, do PHP e de seus módulos e do servidor de banco de dados, configurações de rede e liberação no firewall;
 - Conhecimento sobre CGI, FastCGI e mod_php;
 - Conhecimento sobre escalabilidade;
 

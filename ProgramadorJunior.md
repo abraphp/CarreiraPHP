@@ -29,7 +29,7 @@ Seu foco de atuação é no desenvolvimento de cada unidade de um software, e pa
 - Configurações básicas do webserver (Apache/Nginx)
 	- Virtual hosts;
 	- mod_rewrite;
-- Conhecimento básico sobre sistemas operacionais e linha de comando. Comandos como `ls`, `cd`, `pwd`, `history`, `mkdir`, `cp`, `mv`, `man`, `cat`, `head`, `tail`, `touch`, `less`, `nano`, `vi`, `chmod`, `chown`, `git`, `apachectl`, `apt-get`, `yum`;
+- Conhecimento básico sobre sistemas operacionais e linha de comando. Comandos como `ls`, `cd`, `pwd`, `history`, `mkdir`, `cp`, `mv`, `man`, `cat`, `head`, `tail`, `touch`, `less`, `nano`, `vi`, `chmod`, `chown`, `apachectl`, `apt-get`, `yum`;
 - Conhecimento básico do uso do git (checkout, pull, commit, push, add, reset);
 - Conhece e utiliza ao menos a PSR­0
 

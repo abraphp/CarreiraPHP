@@ -41,7 +41,8 @@ SRP (single responsability principle) e DIP (dependency inversion principle);
 - Possui entendimento básico e aplica as regras de clean code e object calisthenics;
 - Conhecimento de arquitetura de software, princípios SOLID e refatoração;
 - Conhecimento e compreensão da motivação do gerenciamento de assets (otimização de imagens, minificação, concatenação, cache busting);
-- Domina as PSRs básicas (PSR­0, PSR­1 e PSR­2);
+- Conhece sobre o grupo de interoperabilidade entre frameworks (PHP-FIG)
+e suas recomendações (PSRs)
 - Sabe as distinções entre PEAR e o Composer (e sabe utilizar ambos);
 - Criação de testes de unidade;
 - Conhecimento mais avançado do uso do git (merge, rebase, stash, branch, tag,

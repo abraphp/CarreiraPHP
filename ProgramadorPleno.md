@@ -23,7 +23,7 @@ content­type, encoding, etc).
 	- SSL;
 	- Geração de hash utilizando salt (HMAC);
 	- Algoritmos de criptografia (DES, 3DES, etc).
-- Conhecimento básico de alguma ferramenta de análise de vulnerabilidades como Acunetix ou Metasploit;
+- Codificar a segurança da aplicação de acordo com as especificações fornecidas por especialistas em segurança de TI.
 - Sabe fazer as tarefas de debug e profile usando o xdebug ou zend debugger com o objetivo de localizar erros e otimizar os códigos;
 - Conhece os design patterns básicos
 	- Abstract Factory;

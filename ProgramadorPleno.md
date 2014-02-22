@@ -56,6 +56,7 @@ computacionalmente, trazendo soluções viáveis;
 #Desejável
 
 - Conhecimentos avançados de algum framework MVC
+- Conhecimentos em bancos de dados NoSQL
 
 #Perfil esperado
 

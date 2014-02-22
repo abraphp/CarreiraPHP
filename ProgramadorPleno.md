@@ -46,7 +46,7 @@ SRP (single responsability principle) e DIP (dependency inversion principle);
 - Criação de testes de unidade;
 - Conhecimento mais avançado do uso do git (merge, rebase, stash, branch, tag,
 cherry­pick);
-	- Gerenciamento de branchs para desenvolvimento em equipe usando o git­flow;
+	- Gerenciamento de branchs para desenvolvimento em equipe;
 - Consegue analisar um problema, pensando nas necessidades a serem contempladas
 computacionalmente, trazendo soluções viáveis; 
 - Conhecimento sobre Cloud Computing (IaaS, PaaS e SaaS);

@@ -3,7 +3,7 @@
 ##Responsabilidades
 
 É um desenvolvedor em início de carreira, acabou de sair da faculdade (ou está ainda cursando) e não tem experiência comprovada no desenvolvimento de softwares dentro de uma empresa.
-Seu foco de atuação é no desenvolvimento de cada unidade de um software, e para isso deve receber as especificações completas dos problema contendo: entradas, comportamentos esperados e saídas.
+Seu foco de atuação é no desenvolvimento de cada unidade de um software, e para isso deve receber as especificações completas dos problemas, contendo: entradas, comportamentos esperados e saídas.
 
 ##Requisitos
 

@@ -2,7 +2,7 @@
 
 ##Responsabilidades
 
-Desenvolvedor com experiência um pouco mais consolidada no desenvolvimento de softwares. Seu foco de atuação é na análise e desenvolvimento das funcionalidades dos softwares, sugerindo melhorias no processo e auxiliando os programadores junior e estagiários sempre que houver possibilidade/necessidade.
+Desenvolvedor com experiência um pouco mais consolidada no desenvolvimento de software. Seu foco de atuação é na análise e desenvolvimento das funcionalidades dos software, sugerindo melhorias no processo e auxiliando os programadores junior e estagiários sempre que houver possibilidade/necessidade.
 
 ##Requisitos
 

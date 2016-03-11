@@ -2,7 +2,7 @@
 
 ##Responsabilidades
 
-Desenvolvedor com habilidades extremamente evoluídas em todas as etapas do desenvolvimento de softwares e na priorização correta das demandas existentes e alta capacidade de entrega.
+Desenvolvedor com habilidades extremamente evoluídas em todas as etapas do desenvolvimento de software e na priorização correta das demandas existentes e alta capacidade de entrega.
 
 ##Requisitos
 

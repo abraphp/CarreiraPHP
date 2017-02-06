@@ -37,7 +37,7 @@ content­type, encoding, etc).
 	- Strategy;
 	- State.
 - Codifica seguindo ao menos KISS (keep it simple, stupid), DRY (don't repeat yourself),
-SRP (single responsability principle) e DIP (dependency inversion principle);
+SRP (single responsibility principle) e DIP (dependency inversion principle);
 - Possui entendimento básico e aplica as regras de clean code e object calisthenics;
 - Conhecimento de arquitetura de software, princípios SOLID e refatoração;
 - Conhecimento e compreensão da motivação do gerenciamento de assets (otimização de imagens, minificação, concatenação, cache busting);

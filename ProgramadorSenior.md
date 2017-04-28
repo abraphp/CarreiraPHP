@@ -1,10 +1,10 @@
-#Programador PHP Sênior
+# Programador PHP Sênior
 
-##Responsabilidades
+## Responsabilidades
 
 Desenvolvedor com habilidades extremamente evoluídas em todas as etapas do desenvolvimento de software e na priorização correta das demandas existentes e alta capacidade de entrega.
 
-##Requisitos
+## Requisitos
 
 - Todas as do Programador PHP Pleno, porém com maior desenvoltura (qualidade, produtividade e autonomia);
 - Conhecimento sobre o funcionamento interno de um framework e qual a motivação de sua utilização sabendo identificar seus componentes e suas funcionalidades;
@@ -14,8 +14,7 @@ Desenvolvedor com habilidades extremamente evoluídas em todas as etapas do dese
 - Conhecimento sobre CGI, FastCGI e mod_php;
 - Conhecimento sobre escalabilidade;
 
-#Desejável
+# Desejável
 
 
-#Perfil esperado
-
+# Perfil esperado

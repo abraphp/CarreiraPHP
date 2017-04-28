@@ -1,11 +1,11 @@
-#Programador PHP Junior
+# Programador PHP Junior
 
-##Responsabilidades
+## Responsabilidades
 
 É um desenvolvedor em início de carreira, acabou de sair da faculdade (ou está ainda cursando) e não tem experiência comprovada no desenvolvimento de software dentro de uma empresa.
 Seu foco de atuação é no desenvolvimento de cada unidade de um software, e para isso deve receber as especificações completas dos problemas, contendo: entradas, comportamentos esperados e saídas.
 
-##Requisitos
+## Requisitos
 
 - Funcionamento e uso das estruturas básicas de programação (if, else, else if, for, foreach, while, do/while, switch);
 - Conceitos básicos de orientação à objetos (objeto, classe, método, abstração, polimorfismo);
@@ -34,11 +34,11 @@ Seu foco de atuação é no desenvolvimento de cada unidade de um software, e pa
 - Conhecimento básico do uso do git (checkout, pull, commit, push, add, reset);
 - Conhece e utiliza ao menos a PSR­0
 
-#Desejável
+# Desejável
 
 - Conhecimentos básicos de algum framework MVC
 
-#Perfil esperado
+# Perfil esperado
 
 - Sedento por conhecimento ao extremo (sempre pesquisando e perguntando);
 - Organizado;

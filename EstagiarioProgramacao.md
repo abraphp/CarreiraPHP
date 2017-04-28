@@ -1,19 +1,19 @@
-#Estagiário PHP
+# Estagiário PHP
 
-##Responsabilidades
+## Responsabilidades
 
 O estagiário tem como responsabilidade a busca de aprendizado e experiência prática.
 
-##Requisitos
+## Requisitos
 
 - Conceitos básicos de lógica de programação;
 - Conceitos básicos de HTML;
 
-#Desejável
+# Desejável
 
 - Conhecimentos básicos da sintaxe PHP;
 
-#Perfil esperado
+# Perfil esperado
 
 - Sedento por conhecimento ao extremo (sempre pesquisando e perguntando);
 - Bom relacionamento com os colegas;

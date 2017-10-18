@@ -21,8 +21,10 @@ content­type, encoding, etc).
 - Conhecimento intermediário sobre sistemas operacionais (processos, redes, estruturas de diretórios e configurações básicas) e linha de comando. Comandos como `ps`, `kill`, `ifconfig`, `nmap`, `hostname`, `find`, `grep`, `>`, `>>`, `|`, `&`, `su`, `sudo`, `wget`, `crontab`;
 - Conhecimento básico de segurança e criptografia de dados
 	- SSL;
-	- Geração de hash utilizando salt (HMAC);
-	- Algoritmos de criptografia (DES, 3DES, etc).
+	- Resumo (SHA-2, SHA-3, Blake2...);
+	- MAC (HMAC, GMAC, OMAC, Poly1305...);
+	- Derivação de chave (BCrypt, Argon2i, PBKDF2, SCrypt...);
+	- Encriptação simétrica (3DES, AES, ChaCha20, Salsa20...).
 - Codificar a segurança da aplicação de acordo com as especificações fornecidas por especialistas em segurança de TI.
 - Sabe fazer as tarefas de debug e profile usando o xdebug ou zend debugger com o objetivo de localizar erros e otimizar os códigos;
 - Conhece os design patterns básicos

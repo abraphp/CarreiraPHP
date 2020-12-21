@@ -31,12 +31,14 @@ Seu foco de atuação é no desenvolvimento de cada unidade de um software, e pa
 	- Virtual hosts;
 	- mod_rewrite;
 - Conhecimento básico sobre sistemas operacionais e linha de comando. Comandos como `ls`, `cd`, `pwd`, `history`, `mkdir`, `cp`, `mv`, `man`, `cat`, `head`, `tail`, `touch`, `less`, `nano`, `vi`, `chmod`, `chown`, `apachectl`, `apt-get`, `yum`;
-- Conhecimento básico do uso do git (checkout, pull, commit, push, add, reset);
+- Conhecimento básico do uso do git (checkout, pull, commit, push, add, reset,rebase,merge);
 - Conhece e utiliza ao menos a PSR­0
 
 # Desejável
 
-- Conhecimentos básicos de algum framework MVC
+- Conhecimentos básicos de algum framework MVC 
+  -Laravel
+  -Symfony
 
 # Perfil esperado
 
